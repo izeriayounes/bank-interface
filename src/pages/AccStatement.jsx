@@ -6,7 +6,7 @@ import Link from "../components/Link";
 export default function AccStatement() {
   return (
     <div className="px-20 mt-10">
-      <div className="grid grid-cols-2 gap-60">
+      <div className="grid grid-cols-2 gap-72">
         <div></div>
         <Button>
           <Link to="/money-transfer">
